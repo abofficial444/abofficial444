@@ -7,7 +7,7 @@ I have built series of data_driven products in the likes of hybrid recommender s
  
 
 - 🔭 I’m currently working on ... Azure Machine Learning projects
-- 🌱 I’m currently learning FlaskAPI to consume Machine Learning models
+- 🌱 I’m currently learning FastAPI framework to consume Machine Learning models
 - 👯 I’m looking to collaborate on Data science and Machine learning projects
 - 🤔 I’m looking for help with ... Expertise in Operation research
 - 💬 Ask me about Data science and Machine learning development
