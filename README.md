@@ -7,10 +7,10 @@ I have built series of data_driven products in the likes of hybrid recommender s
  
 
 - 🔭 I’m currently consuming projects on Azure Machine Learning services
-- 🌱 I’m currently learning [MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) and  [FastAPI](https://fastapi.tiangolo.com/tutorial/first-steps/)framework to consume Machine Learning models
-- 👯 I’m looking to collaborate on Data science and Machine learning projects
+- 🌱 I’m currently learning [MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) and  [FastAPI](https://fastapi.tiangolo.com/tutorial/first-steps/) framework to consume Machine Learning models
+- 👯 I’m looking to collaborate on Data science and Machine learning projects/framwoeks
 - 🤔 I’m looking for help with Expertise in Operation research
 - 💬 Ask me about Data science and Machine learning development
-- 📫 How to reach me: ... Twitter, Linkedin
+- 📫 How to reach me: ... (Twitter)[twitter.com/ABofficial_NG]
 - ⚡ Fun fact: ... I multitask, adopt new Technology and always open to work
 
