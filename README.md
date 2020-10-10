@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Adegunle A. Babatunde I am a Data Engineer, Data Scientist, MLDevOps Engineer, Business Intelligence Analyst and RPA specialist
+My name is Adegunle A. Babatunde I am a Data Engineer, Data Scientist, Machine Learning Engineer, Business Intelligence Analyst and RPA specialist
 I studied Civil and Enviromental Engineering
 
 I impact lives on series of data-driven technology, My language proficiency are Java, Python and Microsoft SQL
@@ -7,7 +7,7 @@ I have built series of data_driven products in the likes of hybrid recommender s
  
 
 - 🔭 I’m currently consuming projects on Azure Machine Learning services
-- 🌱 I’m currently learning [I'MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) FastAPI framework to consume Machine Learning models
+- 🌱 I’m currently learning [MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) FastAPI framework to consume Machine Learning models
 - 👯 I’m looking to collaborate on Data science and Machine learning projects
 - 🤔 I’m looking for help with Expertise in Operation research
 - 💬 Ask me about Data science and Machine learning development
