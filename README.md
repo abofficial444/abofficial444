@@ -15,6 +15,6 @@ I have built series of data_driven products in the likes of hybrid recommender s
 - 👯 I’m looking to collaborate on Data science and Machine learning projects/framwoeks
 - 🤔 I’m looking for help with Expertise in Operation research
 - 💬 Ask me about Data science and Machine learning development
-- 📫 How to reach me: ... [Twitter](twitter.com/ABofficial_NG)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/ABofficial_NG)
 - ⚡ Fun fact: ... I multitask, adopt new Technology and always open to work
 
