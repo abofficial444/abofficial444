@@ -8,7 +8,7 @@ I have built series of data_driven products in the likes of hybrid recommender s
  
  KEYWORDS: Softwares/Technologies/Framworks skills
  
-[HTML5,CSS3,BOOTSRAP,PYTHON,JAVA,MICROSOFTSQL, FLASK, DATA ANALYSIS, MACHINE LEARNING, NATURAL LANGUAGE PROCESSING, FASTAPI, DOCKER, AZURE MACHINE LEARNING SERVICES, GIT, OFFICE365, WEB SCRAPING, MICROSOFT POWERBI, ANIMATION, FASTAI, TENSORFLOW]
+[HTML5,CSS3,BOOTSRAP,PYTHON,JAVA,MICROSOFTSQL, FLASK, DATA ANALYSIS, MACHINE LEARNING, NATURAL LANGUAGE PROCESSING, FASTAPI, DOCKER, AZURE MACHINE LEARNING SERVICES, GIT, OFFICE365, WEB SCRAPING, MICROSOFT POWERBI, ANIMATION, FASTAI, TENSORFLOW, AZURE DEVOPS SERVER]
 
 - 🔭 I’m currently consuming projects on Azure Machine Learning services
 - 🌱 I’m currently learning [MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) and  [FastAPI](https://fastapi.tiangolo.com/tutorial/first-steps/) framework to consume Machine Learning models
