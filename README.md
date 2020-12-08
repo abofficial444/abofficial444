@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Adegunle A. Babatunde I am a Data Engineer, Data Scientist, Machine Learning Engineer, Front End Engineer, Business Intelligence Analyst and RPA specialist
+My name is Adegunle A. Babatunde I am a Data Engineer, Data Scientist, Machine Learning Engineer, Cloud Architect, Business Intelligence Analyst and RPA specialist
 
 I studied Civil and Enviromental Engineering
 
@@ -8,7 +8,7 @@ I have built series of data_driven products in the likes of hybrid recommender s
  
  KEYWORDS: Softwares/Technologies/Framworks skills
  
-[HTML5,CSS3,BOOTSRAP,PYTHON,JAVA,MICROSOFTSQL, FLASK, DATA ANALYSIS, MACHINE LEARNING, NATURAL LANGUAGE PROCESSING, FASTAPI, DOCKER, AZURE MACHINE LEARNING SERVICES, GIT, OFFICE365, WEB SCRAPING, MICROSOFT POWERBI, FASTAI, TENSORFLOW, AZURE DEVOPS SERVER]
+[HTML5,CSS3,BOOTSRAP,PYTHON,JAVA, MICROSOFT SQL SERVER, FLASK, DATA ANALYSIS, MACHINE LEARNING, NATURAL LANGUAGE PROCESSING, FASTAPI, DOCKER, AZURE MACHINE LEARNING SERVICES, GIT, OFFICE365, WEB SCRAPING, MICROSOFT POWERBI, FASTAI, TENSORFLOW, AZURE DEVOPS SERVER]
 
 - 🔭 I’m currently consuming projects on Azure Machine Learning services
 - 🌱 I’m currently learning [MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) and  [FastAPI](https://fastapi.tiangolo.com/tutorial/first-steps/) framework to consume Machine Learning models
