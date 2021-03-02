@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Adegunle A. Babatunde I am a Data Engineer, Data Scientist, Machine Learning Engineer, Cloud Architect, Business Intelligence Analyst and RPA specialist
+My name is Adegunle A. Babatunde I am a Data Scientist, Machine Learning Engineer, Business Intelligence Analyst and Power Apps Developer
 
 I studied Civil and Enviromental Engineering
 
