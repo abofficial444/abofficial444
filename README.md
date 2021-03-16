@@ -11,7 +11,7 @@ I have built series of data_driven products in the likes of hybrid recommender s
 [HTML5,CSS3,BOOTSRAP,PYTHON,JAVA, MICROSOFT SQL SERVER, FLASK, DATA ANALYSIS, MACHINE LEARNING, NATURAL LANGUAGE PROCESSING, FASTAPI, DOCKER, AZURE MACHINE LEARNING SERVICES, GIT, OFFICE365, WEB SCRAPING, MICROSOFT POWERBI, FASTAI, TENSORFLOW, AZURE DEVOPS SERVER]
 
 - 🔭 I’m currently consuming projects on Azure Machine Learning services
-- 🌱 I’m currently learning [MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) and  [FastAPI](https://fastapi.tiangolo.com/tutorial/first-steps/) framework to consume Machine Learning models
+- 🌱 I’m currently functioning as a [MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) 
 - 👯 I’m looking to collaborate on Data science and Machine learning projects/framwoeks
 - 🤔 I’m looking for help with Expertise in Operation research and Autonomous Self Driving Car
 - 💬 Ask me about Data science and Machine learning development
