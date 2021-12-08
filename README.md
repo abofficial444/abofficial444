@@ -6,7 +6,7 @@ I studied Civil and Enviromental Engineering
 I impact lives on series of data-driven technology, My language proficiency are Java, Python and SQL
 I have built series of data_driven products in the likes of hybrid recommender systems, customer care chatbots and has consumed a lot of machine learning projects as an API for 3rd party integration purposes, also implemented a bit of operation research to allocate resources and make informed decisions.
  
- KEYWORDS: Softwares/Technologies/Framworks skills
+ KEYWORDS: Softwares/Technologies/Frameworks skills
  
 [HTML5,CSS3,BOOTSRAP,PYTHON,JAVA,R, MICROSOFT SQL SERVER, FLASK, DATA ANALYSIS, MACHINE LEARNING, NATURAL LANGUAGE PROCESSING, FASTAPI, DOCKER, AZURE MACHINE LEARNING SERVICES, GIT, OFFICE365, WEB SCRAPING, MICROSOFT POWERBI, FASTAI, TENSORFLOW,KERAS, AZURE DEVOPS SERVER]
 
