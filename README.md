@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Adegunle A. Babatunde I am a Data Scientist, Machine Learning Engineer, Business Intelligence Analyst and Power Platform Developer
+My name is Ahmed Adegunle Babatunde I am a Data Scientist, Machine Learning Engineer, Business Intelligence Analyst and Power Platform Developer
 
 I studied Civil and Enviromental Engineering
 
