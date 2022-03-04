@@ -4,7 +4,7 @@ My name is Ahmed Adegunle Babatunde I am a Data Scientist, MLOps Engineer, Busin
 I studied Civil and Enviromental Engineering
 
 I impact lives on series of data-driven technology, My language proficiency are Java, Python and SQL
-I have built series of data_driven products in the likes of hybrid recommender systems, customer care chatbots and has consumed a lot of machine learning projects as an API for 3rd party integration purposes, also implemented a bit of operation research to allocate resources and make informed decisions.
+I have built series of data_driven products in the likes of hybrid recommender systems, customer care chatbots and has consumed alot of machine learning projects as an API for 3rd party integration purposes, also implemented a bit of operation research to allocate resources and make informed decisions.
  
 Softwares/Technologies/Frameworks/Project Management skills
  
