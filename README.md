@@ -8,7 +8,7 @@ I have built series of data_driven products; the likes of hybrid recommender sys
  
 Softwares/Technologies/Frameworks/Project Management skills
  
-[Trello, Slack, MLflow, Python, Java SE, R, MICROSOFT SQL SERVER, MySQL, Google Bigquery, Flask, Google Analytics, FastAPI, Docker, Azure ML, GIT, Microsoft365, Web scraping, FastAI, Tensorflow, AZURE DEVOPS SERVER, dbt, Metabase, Coda, Airbyte, Google slides]
+[Trello, Slack, MLflow, Python, Java SE, R, Microsoft SQL Server, MySQL, Google Bigquery, Flask, Google Analytics, FastAPI, Docker, Azure ML, GIT, Microsoft365, Web scraping, FastAI, Tensorflow, AZURE DEVOPS SERVER, dbt, Metabase, Coda, Airbyte, Google slides]
 
 - 🔭 I’m currently consuming projects on Azure Machine Learning services
 - 🌱 I’m currently functioning as a [MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) 
