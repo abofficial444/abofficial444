@@ -14,6 +14,6 @@ Softwares/Technologies/Frameworks/Project Management skills
 - 🌱 I’m currently functioning as a [MLDevOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) 
 - 👯 I’m open to collaborate on Data science and Machine learning projects/frameworks
 - 💬 Ask me about Advanced Analytics - Data science and Machine learning development
-- 📫 How to reach me: ... [Twitter](https://twitter.com/ABofficial_NG)
+- 📫 How to reach me: .. [Twitter](https://twitter.com/ABofficial_NG)
 - ⚡ Fun fact: I multitask, adopt new technology and always open to work
 
