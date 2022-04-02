@@ -4,7 +4,7 @@ My name is Ahmed Adegunle Babatunde I am a Data Generalist, MLOps Engineer, Powe
 I impact lives on series of data-driven technology, My language proficiency are Java, Python and SQL
 I have built series of data_driven products; the likes of hybrid recommender systems, customer care bots and has consumed alot of machine learning projects as an API for 3rd party integration purposes, also implemented a bit of operation research to allocate resources and make informed decisions.
  
-Softwares/Technologies/Frameworks/Project Management skills
+Technologies/Frameworks/Project Management skills
  
 [Trello, Slack, MLflow, Python, Java SE, Microsoft SQL Server, MySQL, Google Bigquery, Flask, Google Analytics, FastAPI, Docker, AzureML, GIT, Microsoft365, Web scraping, Tensorflow, AZURE DEVOPS SERVER, dbt, Metabase, Coda, Airbyte, Google slides]
 
