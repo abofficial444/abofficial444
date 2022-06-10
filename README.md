@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Ahmed Adegunle Babatunde I am a Data Generalist & MLOps Engineer
+I am a Data Generalist & MLOps Engineer
 
-I impact lives on series of data-driven technology, My language proficiency are Python & SQL
+I impact businesses on series of data-driven technology, My language proficiency are Python & SQL
 I have built series of data_driven products; the likes of hybrid recommender systems, chatbots and has consumed alot of machine learning projects as an API for 3rd party integration purposes, also implemented a bit of operation research to allocate resources and make informed decisions.
 
 - 🔭 I’m currently consuming projects on Modern Data Stack
