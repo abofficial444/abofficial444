@@ -11,7 +11,7 @@ I have built series of data_driven products; the likes of hybrid recommender sys
 - 📫 How to reach me: .. [Twitter](https://twitter.com/ABofficial_NG)
 - ⚡ Fun fact: I multitask, adopt new technology and always open to work
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abofficial444&label=Profile%20views&color=ce9927&style=flat" alt="abofficial444" /> </p>
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=abofficial444&label=Profile%20views&color=ce9927&style=flat" alt="abofficial444" /> </p>
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=abofficial444&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abofficial444&langs_count=5&theme=tokyonight)]()
