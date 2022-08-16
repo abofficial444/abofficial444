@@ -15,7 +15,4 @@ Language Proficiency: Python & SQL
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abofficial444&label=Profile%20views&color=ce9927&style=flat" alt="abofficial444" /> </p>
  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=abofficial444&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abofficial444&langs_count=50&theme=tokyonight)]()
 
