@@ -17,5 +17,5 @@ Language Proficiency: Python & SQL
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=abofficial444&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abofficial444&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abofficial444&langs_count=50&theme=tokyonight)]()
 
