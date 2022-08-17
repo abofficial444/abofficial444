@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Data Generalist (Specialises in Data Science) & MLOps Engineer
+I am a Data Generalist (Specialized in Data Science)
 
 I impact businesses on series of data-driven technology.
 I have built series of data_driven products; the likes of hybrid recommender systems, chatbots and has consumed alot of machine learning projects as an API for 3rd party integration purposes, also implemented a bit of operation research to allocate resources and make informed decisions.
