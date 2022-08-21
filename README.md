@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Data Generalist (Specialized in Data Science)
+I am a Data Generalist (Focus in Data Science)
 
 I impact businesses on series of data-driven technology.
 I have built series of data_driven products; the likes of hybrid recommender systems, chatbots and has consumed alot of machine learning projects as an API for 3rd party integration purposes, also implemented a bit of operation research to allocate resources and make informed decisions.
@@ -7,7 +7,7 @@ I have built series of data_driven products; the likes of hybrid recommender sys
 Language Proficiency: Python & SQL
 
 - 🔭 I’m currently consuming projects on Modern Data Stack
-- 🌱 I’m currently functioning as a [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) 
+- 🌱 I’m currently functioning as a [Business Data Scientist](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) 
 - 👯 I’m open to collaborate on Data science and Machine learning projects
 - 💬 Ask me about Advanced Analytics - Data science and Machine learning development
 - 📫 How to reach me: .. [Twitter](https://twitter.com/ABofficial_NG)
