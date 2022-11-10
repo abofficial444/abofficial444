@@ -1,18 +1,20 @@
-### Hi there 👋
-I am a Data Generalist (Specializes in Data Science)
+### Hi there 👋 I'm [Adegunle A. Babatunde](https://www.linkedin.com/in/abofficialng/)   
 
-I impact businesses on series of data-driven technology.
-I have built series of data_driven products; the likes of hybrid recommender systems, chatbots and has consumed alot of machine learning projects as an API for 3rd party integration purposes, also implemented a bit of operation research to allocate resources and make informed decisions.
+[![](https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-abofficial444&label=visitors&color=grey&style=flat)](https://github.com/abofficial444)
 
-Language Proficiency: Python & SQL
+I am a Business Data Scientist
 
-- 🔭 I’m currently consuming projects on Modern Data Stack
-- 🌱 I’m currently researching on [MLOps Engineering](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) 
-- 👯 I’m open to collaborate on Data science and Machine learning projects
-- 💬 Ask me about Advanced Analytics - Data science and Machine learning development
-- 📫 How to reach me: .. [Twitter](https://twitter.com/ABofficial_NG)
-- ⚡ Fun fact: I multitask, adopt new technology and always open to work
+<div>
+  <p>
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=abofficial444&show_icons=true&locale=en&default&count_private=true&theme=react" alt="abofficial444" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abofficial444&layout=compact&count_private=true&theme=react" alt="My most used languages for code on Github" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abofficial444&theme=blood-dark&background=000000" alt="abofficial444" />
+  </p>
+</div>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abofficial444&label=Profile%20views&color=ce9927&style=flat" alt="abofficial444" /> </p>
- 
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abofficial444&row=1&no-bg=true" alt="abofficial444"/></a></p>
+
+📫 How to reach me: [Twitter](https://twitter.com/abofficial_ng) * [LinkedIn](https://www.linkedin.com/in/abofficialng/) * [Email](mailto:aadegunle@icloud.com)
 
