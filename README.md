@@ -2,7 +2,7 @@
 
 [![](https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-abofficial444&label=visitors&color=grey&style=flat)](https://github.com/abofficial444)
 
-I am a Business Data Scientist
+A Data Scientist
 
 <div>
   <p>
